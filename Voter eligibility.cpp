@@ -1,4 +1,4 @@
-// Program to check the requirements to vote
+// voters requrement program
 #include <iostream>
 
 using namespace std;
