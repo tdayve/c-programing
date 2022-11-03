@@ -6,7 +6,6 @@ using namespace std;
 int main()
 {
     int a[3][3],i,j;
-    cout<<"enter maatrix number"<<endl;
     for(i=0;i<3;i++)
     {
 
@@ -14,12 +13,12 @@ int main()
 
    {
 
-    cout<<"enter number in pocket["<<i<<"]["<<j<<"]";
+    cout<<"enter matrix number in ["<<i<<"]["<<j<<"]";
     cin>>a[i][j];
    }
     }
 
-    cout<<"mstrix is  "<<endl;
+    cout<<"matrix is  "<<endl;
      for(i=0;i<3;i++)
     {
 
